@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bondane_Carmen_Lab6", "Bondane_Carmen_Lab6.csproj", "{A01DC9A6-AAF6-4E19-ABA1-434F66681EB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{C549B8BE-7EFF-4473-8816-39C473C4B176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A01DC9A6-AAF6-4E19-ABA1-434F66681EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01DC9A6-AAF6-4E19-ABA1-434F66681EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01DC9A6-AAF6-4E19-ABA1-434F66681EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01DC9A6-AAF6-4E19-ABA1-434F66681EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C549B8BE-7EFF-4473-8816-39C473C4B176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C549B8BE-7EFF-4473-8816-39C473C4B176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C549B8BE-7EFF-4473-8816-39C473C4B176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C549B8BE-7EFF-4473-8816-39C473C4B176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD3FFE29-2C66-4B25-A3FF-03E62ADEB441}
+	EndGlobalSection
+EndGlobal
